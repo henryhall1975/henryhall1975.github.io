@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["P4242HMZ49.com.henryhall.friendsparty"],
+        "components": [
+          { "/": "/friends-party/*", "?": { "join": "?*" }, "comment": "Invitaciones de Friends Party: abren la app" }
+        ]
+      }
+    ]
+  }
+}
