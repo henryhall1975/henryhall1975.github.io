@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.henryhall.friendsparty",
+      "sha256_cert_fingerprints": [
+        "10:19:A0:DC:5F:DF:3B:DA:19:D9:D2:AC:89:8D:A8:CE:C0:21:7D:1B:47:CE:B0:7B:3F:5C:8A:38:8B:69:4F:22",
+        "7F:A7:F7:B4:BB:FB:5A:B0:1F:91:56:BC:8C:C8:31:86:52:53:57:6E:46:2B:A7:FE:C8:B0:5A:12:00:BC:05:40"
+      ]
+    }
+  }
+]
